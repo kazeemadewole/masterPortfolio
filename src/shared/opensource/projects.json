@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "The Music Box",
+      "createdAt": "2021-03-06T16:26:54Z",
+      "url": "https://themusicbox.netlify.app/",
+      "description": "🔥 The Music Box is a fullstack MERN application where users can listen to music  of artists, album or playlist, like a song, see their recently played song",
       "isFork": false,
       "languages": [
         {
@@ -17,35 +17,47 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "Dockerfile",
           "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "NodeJs",
+          "iconifyClass": "simple-icons:node-dot-js"
+        },
+        {
+          "name": "Postgress",
+          "iconifyClass": "simple-icons:sass"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "KVT",
+      "createdAt": "2021-07-13T20:41:33Z",
+      "url": "https://github.com/kazeemadewole/kvt-api",
+      "description": "An online classified-ad market place where  goods and services can be exchanged between buyers and sellers",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "NodeJs",
+          "iconifyClass": "simple-icons:node-dot-js"
+        },
+        {
+          "name": "Postgress",
+          "iconifyClass": "simple-icons:sass"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Zukasell",
+      "createdAt": "2020-07-23T14:50:20Z",
+      "url": "https://github.com/kazeemadewole/zukasell",
+      "description": "An online classified-ad market place where  goods and services can be exchanged between buyers and sellers",
       "isFork": false,
       "languages": [
         {
@@ -57,8 +69,8 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Php",
+          "iconifyClass": "simple-icons:php"
         },
         {
           "name": "JavaScript",
@@ -68,46 +80,54 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Youtube clone",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/kazeemadewole/youtube-clone",
+      "description": "A static youtube homepage clone",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
+      "name": "Simba Transaction",
       "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "url": "https://github.com/kazeemadewole/simbaTransaction.git",
+      "description": "🚀 Crud operation for transaction",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
+          "name": "ExpressWebJs",
           "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Account Name Verification",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://github.com/kazeemadewole/backdrop_acc_challenge",
+      "description": "🚀 A simple graphql application that confirms name attached to an account number.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NodeJs",
+          "iconifyClass": "simple-icons:node-dot-js"
         },
         {
-          "name": "CSS",
+          "name": "GraphQl",
           "iconifyClass": "logos-css-3"
         }
       ]
